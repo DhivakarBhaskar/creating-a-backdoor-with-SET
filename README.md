@@ -45,6 +45,7 @@ It displays the following menu and select 2 for Website Attack Vectors:
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 ## OUTPUT
 
+<img width="945" height="905" alt="Screenshot 2026-11-25 215007" src="https://github.com/user-attachments/assets/1b1437bd-0b9d-4ca3-b519-40e1a282d246" />
 
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
