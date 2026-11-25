@@ -38,7 +38,8 @@ The command sudo setoolkit in the prompt gives menu with set prompt. Select menu
 It displays the following menu and select 2 for Website Attack Vectors:
 ## OUTPUT
 
-![Uploading image.png…]()
+<img width="870" height="721" alt="image" src="https://github.com/user-attachments/assets/2b0a6b15-1630-47a1-8cfe-1078c7244562" />
+
 
 
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
