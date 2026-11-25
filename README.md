@@ -45,18 +45,21 @@ It displays the following menu and select 2 for Website Attack Vectors:
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 ## OUTPUT
 
-<img width="945" height="905" alt="Screenshot 2026-11-25 215007" src="https://github.com/user-attachments/assets/1b1437bd-0b9d-4ca3-b519-40e1a282d246" />
+<img width="776" height="265" alt="image" src="https://github.com/user-attachments/assets/dec824cb-612f-44c7-8934-5eb577d20bd9" />
+
 
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 ## OUTPUT
 
+<img width="777" height="466" alt="image" src="https://github.com/user-attachments/assets/c219018c-251f-4cda-b38f-cab2a7fafd79" />
 
 
 
 It shows the following screen in which the option Google can be selected:
 ## OUTPUT
 
+<img width="770" height="481" alt="image" src="https://github.com/user-attachments/assets/4a16c721-dc9b-4610-8c07-da7b1283cae8" />
 
 
 
@@ -64,21 +67,25 @@ It shows the following screen in which the option Google can be selected:
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 ## OUTPUT
 
+<img width="778" height="122" alt="image" src="https://github.com/user-attachments/assets/7f7952e6-6dd2-45e8-8e96-c7f09b1b4efe" />
 
 
 
 In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
 ## OUTPUT
+<img width="775" height="457" alt="image" src="https://github.com/user-attachments/assets/a0919e9d-2910-40bf-b71f-3361d8fce056" />
 
 
 SET logs the information regarding the Google credentials:
 ## OUTPUT
 
+<img width="773" height="342" alt="image" src="https://github.com/user-attachments/assets/d7a3983c-ab07-452f-8de4-9e35ab84254d" />
 
 
 SET logs the information in the xml file under /root/.set directory:
 ## OUTPUT
 
+<img width="835" height="363" alt="image" src="https://github.com/user-attachments/assets/999179cd-6c7d-4def-85c5-13499f7cae3a" />
 
 
 
